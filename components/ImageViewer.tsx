@@ -16,7 +16,7 @@ export default ImageViewer;
 const styles = StyleSheet.create({
     image: {
         width: 320,
-        height: 440,
+        height: 500,
         borderRadius: 18,
     },
 });
